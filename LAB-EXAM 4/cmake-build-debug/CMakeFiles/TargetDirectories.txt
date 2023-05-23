@@ -1,0 +1,3 @@
+C:/Users/Deder/source/repos/LAB-EXAM 4/cmake-build-debug/CMakeFiles/LAB_EXAM_4.dir
+C:/Users/Deder/source/repos/LAB-EXAM 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Deder/source/repos/LAB-EXAM 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

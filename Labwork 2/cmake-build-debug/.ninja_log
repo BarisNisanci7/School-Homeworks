@@ -1,0 +1,21 @@
+# ninja log v5
+2	312	7033749204455050	CMakeFiles/Labwork_2.dir/Labwork_2/Labwork_2.cpp.obj	38295f0c55516bbb
+13	962	7033747396321184	CMakeFiles/Labwork_2.dir/Labwork_2/Spaceship.cpp.obj	7f112904b27d9d33
+8	355	7033449026983217	CMakeFiles/Labwork_2.dir/Labwork_2/Planet.cpp.obj	9306c62a66134b49
+312	392	7033749205222996	Labwork_2.exe	e7ef9037cf0c97e6
+3	301	7033753372131081	CMakeFiles/Labwork_2.dir/Labwork_2/Spaceship.cpp.obj	7f112904b27d9d33
+301	384	7033753372938922	Labwork_2.exe	e7ef9037cf0c97e6
+2	326	7033754810822247	CMakeFiles/Labwork_2.dir/Labwork_2/Spaceship.cpp.obj	7f112904b27d9d33
+326	453	7033754812128581	Labwork_2.exe	e7ef9037cf0c97e6
+3	294	7033755869279187	CMakeFiles/Labwork_2.dir/Labwork_2/Spaceship.cpp.obj	7f112904b27d9d33
+294	373	7033755870047127	Labwork_2.exe	e7ef9037cf0c97e6
+2	432	7033759133797020	CMakeFiles/Labwork_2.dir/Labwork_2/Labwork_2.cpp.obj	38295f0c55516bbb
+433	528	7033759134714563	Labwork_2.exe	e7ef9037cf0c97e6
+3	297	7033760201349812	CMakeFiles/Labwork_2.dir/Labwork_2/Labwork_2.cpp.obj	38295f0c55516bbb
+297	377	7033760202127733	Labwork_2.exe	e7ef9037cf0c97e6
+3	564	7035115857955379	CMakeFiles/Labwork_2.dir/Labwork_2/Labwork_2.cpp.obj	38295f0c55516bbb
+565	798	7035115860269194	Labwork_2.exe	e7ef9037cf0c97e6
+2	379	7035119547628122	CMakeFiles/Labwork_2.dir/Labwork_2/Labwork_2.cpp.obj	38295f0c55516bbb
+380	486	7035119548660492	Labwork_2.exe	e7ef9037cf0c97e6
+2	307	7035119908696753	CMakeFiles/Labwork_2.dir/Labwork_2/Labwork_2.cpp.obj	38295f0c55516bbb
+308	389	7035119909494626	Labwork_2.exe	e7ef9037cf0c97e6

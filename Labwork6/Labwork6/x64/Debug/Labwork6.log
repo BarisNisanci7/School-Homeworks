@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Deder\source\repos\Labwork6\Labwork6\Main.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Labwork6.vcxproj -> C:\Users\Deder\source\repos\Labwork6\x64\Debug\Labwork6.exe
